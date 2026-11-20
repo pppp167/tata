@@ -1,0 +1,16 @@
+{
+  "name": "ThaID Full Feature",
+  "short_name": "ThaID",
+  "description": "ThaID Full Feature",
+  "lang": "th",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#303790",
+  "background_color": "#303790",
+  "icons": [
+    { "src": "logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
